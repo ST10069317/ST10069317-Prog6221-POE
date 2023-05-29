@@ -1,0 +1,18 @@
+how to compile and run the software
+
+To run the software first must open the project on visual code and run the project 
+When running the project, they will be a menu with options to choose from
+Option 1: Add the name of the recipe and number of ingredients; name of ingredients; number of quantity; number of units; number of steps
+Option 2: Scale the ingredients quantity by 0.5 or 2 or 3
+Option 3: Reset the ingredients quantity to the original value
+Option 4: To clear all data of the recipe
+Option 5: To display the recipes data
+Option 6: To exit the code 
+
+delelegates added 
+testUnit added
+
+Link to github
+https://github.com/ST10069317/ST10069317-Prog6221-POE.git 
+
+Was unable to find the link for github part 2
